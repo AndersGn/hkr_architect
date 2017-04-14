@@ -6,4 +6,5 @@ Main structure
 body {
     background-color: #007BC2;
     margin: 3rem; /* 1 rem = 10px */
+    font-family: 'Noto Sans', sans-serif;
 }
