@@ -82,3 +82,9 @@ footer{
   border-color: #FABB00;
     border-width: 1px;
 }
+
+.navbar-brand {
+ background-color: white;
+ border-color: #FABB00; 
+ border-width: 5px;
+}
