@@ -71,14 +71,16 @@ footer{
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
-
   background-color: #FABB00;
   border-color: #FABB00;
  }
 
 .btn
 {
-  background-color: #7BC6BC;
-  border-color: #FABB00;
-    border-width: 1px;
+    background-color: #7BC6BC;
+    border-color: #FABB00;
+    border-width: 3px;
+    color:black;
+    font-family: 'Noto Sans';
+
 }
