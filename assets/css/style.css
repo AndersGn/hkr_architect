@@ -18,7 +18,7 @@ body {
 
 .card {
     border-color: #FABB00; 
-    border-width: 4px;
+    border-width: 3px;
     background: #F08A00;
 }
 
@@ -81,10 +81,4 @@ footer{
   background-color: #7BC6BC;
   border-color: #FABB00;
     border-width: 1px;
-}
-
-.navbar-brand {
- background-color: white;
- border-color: #FABB00; 
- border-width: 5px;
 }
